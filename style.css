@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://images.pexels.com/photos/414586/pexels-photo-414586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Times New Roman;
+}
+
+#form {
+  text-align: center;
+  border-style: solid;
+  padding: 15px;
+  width: 50%;
+}
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: palevioletred;
+  color: white;
+  text-align: center;
+}

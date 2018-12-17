@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://images.pexels.com/photos/414586/pexels-photo-414586.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-image: url("https://images.pexels.com/photos/96617/pexels-photo-96617.jpeg?auto=compress&cs=tinysrgb&dpr=1&fit=crop&h=500&w=500");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: Times New Roman;
@@ -10,8 +10,16 @@ body {
   border-style: solid;
   padding: 15px;
   width: 50%;
+  margin-left: 20px;
 }
-#footer {
+input {
+  margin-left: 0.5px;
+  border: 3px;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 20px 0px 20px;
+}
+footer {
   position: absolute;
   left: 0;
   bottom: 0;

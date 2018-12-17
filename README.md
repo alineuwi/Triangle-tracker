@@ -41,7 +41,7 @@ If you would like a local copy of this website, here there is a link:
 
 \$ git clone https://github.com/alineuwi/Triangle-tracker.git
 
-or :https://alineuwi.github.io/triangle-tracker/
+or :https://alineuwi.github.io/Triangle-tracker/angle.html
 
 ## Support and contact details
 

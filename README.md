@@ -1,6 +1,7 @@
 # Triangle tracker, Date 17th,Dec 2018
 
 By UWIMANA Aline
+## Description
 the Aim of this project is to show what a kind of triangle by using javascript functions, HTML and style css.
 
 ## Setup/Installation Requirements
@@ -14,11 +15,19 @@ the Aim of this project is to show what a kind of triangle by using javascript f
 
 #BDD.
 
-|When triangle Equilateral | All sides are equal | 12,12,12 equirateral |triangle|
-| When a triangle is Isosceles | Two sides are equal | 9; 9; 7 | Isosceles Triangle|  
-| When a triangle is Scalene | None of the sides are equal | 4 ; 6; 8 | Scalene Triangle |
-| When it is not a triangle | The summation of any two sides is not equal to the third sum | 9; 4; 3 | Not a Triangle |
-| When it is Undefined | When zero or nothing is inserted | 1; 0; 5 | Undefined |
+1.When triangle Equilateral: All sides are equal .
+eg: 12,12,12 (equirateral triangle)
+
+2. When a triangle is Isosceles :Two sides are equal.
+eg: 9; 9; 7 ( Isosceles Triangle) 
+
+3. When a triangle is Scalene : None of the sides are equal. 
+e.g: 4 ; 6; 8 ( Scalene Triangle )
+
+4.When it is not a triangle : The summation of any two sides is not equal to the third sum 
+e.g: 9; 4; 3 (Not a Triangle )
+
+5. When it is Undefined  : When zero or nothing is inserted e.g: 1; 0; 5 ( Undefined )
 
 ## Technologies Used
 
@@ -41,4 +50,4 @@ Phone:0788980122
 
 ### License
 
-Copyright (c) {2018} UWIMANA Aline
+Copyright (c) {2018} **UWIMANA Aline**

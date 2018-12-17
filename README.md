@@ -14,7 +14,7 @@ the Aim of this project is to show what a kind of triangle by using javascript f
 
 #BDD.
 
-When triangle Equilateral | All sides are equal | 12,12,12 equirateral |triangle|
+|When triangle Equilateral | All sides are equal | 12,12,12 equirateral |triangle|
 | When a triangle is Isosceles | Two sides are equal | 9; 9; 7 | Isosceles Triangle|  
 | When a triangle is Scalene | None of the sides are equal | 4 ; 6; 8 | Scalene Triangle |
 | When it is not a triangle | The summation of any two sides is not equal to the third sum | 9; 4; 3 | Not a Triangle |
